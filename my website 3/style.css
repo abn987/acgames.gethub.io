@@ -1,0 +1,65 @@
+body{
+    background-image:url(bg1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Roboto', sans-serif;
+}
+.title{
+    font-size: 35px;
+    color: white;
+}
+
+.secondtitle{
+    font-size: 35px;
+    color: white;
+    margin-top: 20px;
+}
+
+.box{
+padding-top: 13px;
+background-color: rgba(0, 0, 0, 0.486);
+width: 700px;
+height:13500px;
+border-radius: 10px;
+position: relative;
+top: 150px;
+left: 380px;
+padding-left: 10px ;
+padding-right: 10px ;
+}
+
+.img{
+    position: relative;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 400px;
+    width: 680px;
+}
+
+.titletwo{
+    color: white;
+    font-size: 20px;
+ 
+}
+
+.firstpar{
+    color: white;
+    margin-top: 14px;
+    line-height: 23px;
+}
+
+.one{
+    color: white;
+}
+.des{
+    color: white;
+    line-height: 20px;
+}
+
+.sys{
+    color: white;
+    line-height: 30px;
+}
